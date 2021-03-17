@@ -12,5 +12,3 @@ Search by hand-crafted categories, add your already seen movies to your Library 
 https://pure-falls-12557.herokuapp.com/
 
 PS: Initial loading is a little bit slow. Thank you for your time and patience. 🙏🏻
-
-![moovie-home](https://lh4.googleusercontent.com/hQFdaahWPf5LPcSYBm8nf3qX-T1i-FKBWFmtU4RkCbUJ0SP-HAbf9bDOuqJKnyoWl6BpeKk0JprXoAlPuu73=w2560-h1228-rw)
